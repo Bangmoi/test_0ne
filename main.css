@@ -1,0 +1,68 @@
+.header{
+   
+}
+.header_logo{
+    width: 10%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.images_logo{
+    width: 50px;
+   
+}
+.nav-item .flag{width: 20px;}
+.form-flag{float: right; width: 100px; margin-bottom: 11px;}
+.header .header_menu .navbar-brand{
+    color: red;
+}
+.header .home_bth{
+    width: 50px;
+    opacity: 0.6;
+    border: 0px;
+    padding-bottom: 8px;
+}
+.header .nav-item{
+    margin-top:5px ;
+}
+.d-flex .btn{
+     width: 130px;
+}
+body .Container{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+.content{
+    background-color: lawngreen;
+}
+.content .notification .card{
+    margin: 10px;
+}
+
+.wrap{
+    width: 100%;
+    height: 285px;
+    margin-bottom: 20px ;
+    background-color: black;
+    display: flex;
+    align-items: center;
+   
+}
+.wrap .carousel{
+    
+    margin: auto;
+    margin-top: 10px;
+    padding: 0 30px;
+    
+    
+}
+.carousel .card_item{
+    line-height: 250px;
+    
+    width: 200px;
+    margin: 0 auto;
+    
+    
+}
+
